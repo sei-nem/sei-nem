@@ -8,7 +8,7 @@
 ## My Skill (Programming Languages, Frameworks and Tools)
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,python,js,typescript,react,next,sqlite,postgres,googlecloud,github,vscode,docker,jquery,vite,threejs" />
+  src="https://skillicons.dev/icons?i=html,css,python,js,sqlite,postgres,googlecloud,github,vscode,jquery,vite,threejs" />
 <br />
 
 ## NOW TRAINING
