@@ -1,4 +1,4 @@
-# WEB Developer in Japan👋
+# WEB Developer👋
 
 <!-- [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064) -->
 
