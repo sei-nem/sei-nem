@@ -63,6 +63,8 @@
 	<td><img src="img/Dodo.png" width="30" /></td>
 	<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
 	</tr>
+</table>
+<table>
 	<tr>
 		<th><strong>#</strong></th>
 		<th><strong>Library<br>Framework</strong></th>
@@ -147,6 +149,8 @@
 		<td><img src="img/HatchingChick.png" width="30" /></td>
 		<td><img src="img/NauseatedFace.png" width="30" /></td>
 	</tr>
+</table>
+<table>
 	<tr>
 		<th><strong>#</strong></th>
 		<th><strong>Other</strong></th>
