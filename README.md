@@ -30,7 +30,7 @@
 	</tr>
 	<tr>
 		<td><img src="icon/ts.svg" alt="typescript" width="30" /></td>
-		<td><code>TypeScript</code></td>
+		<td><code>Typescript</code></td>
 		<td><img src="img/HatchingChick.png" width="30" /></td>
 		<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
 	</tr>
