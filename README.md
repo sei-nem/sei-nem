@@ -1,11 +1,18 @@
 # WEB Developer👋
 
-<!-- [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064) -->
+## My Skills
 
-<!-- <a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/>
-</a> -->
 
-## My Skill (Programming Languages, Frameworks and Tools)
+
+<div style="display: flex; align-items: flex-start;">
+<img src="icon/js-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="63" height="63" /></div>
+
 
 <img
   src="https://skillicons.dev/icons?i=html,css,python,js,sqlite,postgres,googlecloud,github,vscode,jquery,vite,threejs" />
@@ -21,9 +28,6 @@
 
 
 
-
-
-
 <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
@@ -34,18 +38,3 @@
     </h1>
   </div>
 <br><br><br>
-
-<!--
-**nem-work/nem-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
