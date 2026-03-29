@@ -20,7 +20,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Language</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/js.svg" alt="javascript" width="30" /></td>
@@ -69,7 +69,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Library<br>Framework</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/react.svg" alt="react" width="30" /></td>
@@ -155,7 +155,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Other</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/SQLite.svg" alt="sqlite" width="30" /></td>
