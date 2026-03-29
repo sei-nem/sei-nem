@@ -8,7 +8,7 @@
 <img src="img/Dodo.png" width="30" /> = まあまあ使える <br>
 <img src="img/HatchingChick.png" width="30" /> = なんとなく、勉強中 <br>
 
-### Likability
+### Favorite
 
 <img src="img/SparklingHeart.png" width="30" /> = 好き <br>
 <img src="img/SlightlySmilingFace.png" width="30" /> = 普通 <br>
