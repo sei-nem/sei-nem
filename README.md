@@ -136,7 +136,7 @@
 		<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
 	</tr>
 	<tr>
-		<td><img src="icon/Wordpress.svg" alt="wordpress" width="30" /></td>
+		<td><img src="icon/wordpress.svg" alt="wordpress" width="30" /></td>
 		<td><code>Wordpress</code></td>
 		<td><img src="img/HatchingChick.png" width="30" /></td>
 		<td><img src="img/NauseatedFace.png" width="30" /></td>
@@ -166,7 +166,7 @@
 		<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
 	</tr>
 	<tr>
-		<td><img src="icon/gcp.svg" alt="gcp" width="30" /></td>
+		<td><img src="icon/GCP.svg" alt="gcp" width="30" /></td>
 		<td><code>GCP</code></td>
 		<td><img src="img/HatchingChick.png" width="30" /></td>
 		<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
@@ -214,7 +214,7 @@
 		<td><img src="img/NauseatedFace.png" width="30" /></td>
 	</tr>
 	<tr>
-		<td><img src="icon/xserver.svg" alt="xserver" width="30" /></td>
+		<td><img src="icon/Xserver.svg" alt="xserver" width="30" /></td>
 		<td><code>Xserver</code></td>
 		<td><img src="img/T-Rex.png" width="30" /></td>
 		<td><img src="img/SlightlySmilingFace.png" width="30" /></td>
@@ -239,9 +239,11 @@
 	</tr>
 </table>
 
+
 <br>
 <br>
 <br>
+
 
 <div align="center">
 	<h1>
