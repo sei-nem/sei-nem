@@ -8,7 +8,7 @@
 <img src="img/Dodo.png" width="30" /> = まあまあ使える <br>
 <img src="img/HatchingChick.png" width="30" /> = なんとなく、勉強中 <br>
 
-### Likability
+### Favorite
 
 <img src="img/SparklingHeart.png" width="30" /> = 好き <br>
 <img src="img/SlightlySmilingFace.png" width="30" /> = 普通 <br>
@@ -20,7 +20,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Language</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/js.svg" alt="javascript" width="30" /></td>
@@ -69,7 +69,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Library<br>Framework</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/react.svg" alt="react" width="30" /></td>
@@ -155,7 +155,7 @@
 		<th><strong>#</strong></th>
 		<th><strong>Other</strong></th>
 		<th><strong>Proficiency</strong></th>
-		<th><strong>Likability</strong></th>
+		<th><strong>Favorite</strong></th>
 	</tr>
 	<tr>
 		<td><img src="icon/SQLite.svg" alt="sqlite" width="30" /></td>
@@ -251,16 +251,8 @@
 
 <div align="center">
 	<h1>
-		<img
-			src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-		<img
-			src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-		<img
-			src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-		<img
-			src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-		<img
-			src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+		<img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="30">　　
+		<img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif" width="30">　　
+		<img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" width="25">・・・
 	</h1>
 </div>
-<br><br><br>
