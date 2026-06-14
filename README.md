@@ -1,6 +1,6 @@
 # <img src="img/FlagJapan.webp" width="30" />WEB Developer <img src="img/WavingHand.png" width="30" />
 
-## My Skills
+<!-- ## My Skills
 
 ### Proficiency
 
@@ -246,7 +246,7 @@
 
 <br>
 <br>
-<br>
+<br> -->
 
 
 <div align="center">
